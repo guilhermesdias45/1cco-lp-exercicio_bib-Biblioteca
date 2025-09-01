@@ -2,6 +2,8 @@
 
 ## 🎯 Objetivo
 
+
+
 Você deve implementar a classe `Biblioteca` com atributos, métodos e regras específicas para simular operações de uma biblioteca pública, como registrar livros, emprestar, devolver, transferir para outra biblioteca, desativar e reajustar a multa diária.
 
 ---
